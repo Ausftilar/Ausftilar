@@ -3,7 +3,7 @@
 
 <!-- [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) -->
 
-* 🌱 Работааю во Frontend сфере уже более 3+ лет
+* 🌱 Работааю во Frontend сфере уже более 4+ лет
 * 📫 Со мной можно связаться mihailkhudoshin@gmail.com или [Telegram](https://t.me/Ausftilar)
 
 ### 🧑‍💻 Используемые технологии
